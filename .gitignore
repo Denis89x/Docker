@@ -34,7 +34,7 @@ out/
 /.nb-gradle/
 
 ### Private files ###
-resources/application.yaml
+application.yaml
 compose-env.yaml
 
 
